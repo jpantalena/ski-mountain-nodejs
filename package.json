@@ -1,0 +1,22 @@
+{
+  "name": "ski-mountain-nodejs",
+  "version": "0.0.1",
+  "description": "Ski Mountain API - node.js",
+  "author": "Jack Pantalena",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "hbs": "~4.0.1",
+    "knex": "^0.12.6",
+    "pg": "^6.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

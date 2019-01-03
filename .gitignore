@@ -1,0 +1,7 @@
+node_modules
+.env
+*.xml
+*.iml
+seeds
+.DS_Store
+public/.DS_Store
